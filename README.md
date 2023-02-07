@@ -1,6 +1,12 @@
 
-# Getting Started with Create React App
+
+# DynoAI
+An AI which recognises food objects given to him through AI vision technology
+
 http://dynoai.tech/
+
+
+
 ![image](https://user-images.githubusercontent.com/88850029/217239801-f8f2ee51-bdf8-44f7-aa0d-3d9cac236f88.png)
 ![image](https://user-images.githubusercontent.com/88850029/217239859-46b87855-1585-4561-9c40-9e02198afca0.png)
 ![image](https://user-images.githubusercontent.com/88850029/217239898-a6f99e89-0644-47d0-93dd-7b2f6772bc18.png)
